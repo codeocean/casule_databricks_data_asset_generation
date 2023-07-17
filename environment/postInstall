@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -e
+
+pip install -i https://test.pypi.org/simple/ codeoceansdk==0.0.2

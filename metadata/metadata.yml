@@ -1,0 +1,10 @@
+metadata_version: 1
+name: Databricks - Python - Data Asset Generation
+description: Utilize Databricks  - Data Connector for querying and creating a data
+  asset.
+tags:
+- databricks
+- SQL
+- Data Connectors
+authors:
+- name: Stephen Pirpinias
